@@ -10,8 +10,8 @@
 # 
 # 
 # 
-# This is a group work made by group 282. 
-# Group members: Hu,Boxuan z5145438; Wang,Yan z5133879
+# This is a group work. 
+# Group members: Hu,Boxuan; Wang,Yan.
 #   This program works with three parts: The first part is used for storing map information based on the agent's action.
 #   The second part is used for searching a path based on the information of memorised map.
 #   The third part is used for translating the path into a string and output the letter in this string one by one.
